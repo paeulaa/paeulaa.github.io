@@ -6,13 +6,14 @@
 ### 1. Dataset
 
 This dataset was collected through an online survey conducted in Bulgaria between May 14 and May 31, 2023. The survey received 131 valid responses, focusing on how students perceive and use generative AI technologies like ChatGPT in learning. 
-<img src="images/Ripple.png?raw=true"/>
+<br>
+<img src="images/form.png?raw=true"/>
 
 ### 2. Inspiraation
 This study illustrates how the use of conversational chatbots creates a continuous and expanding impact on learning, much like ripples in water. 
 So, we got inspirations from ripple and designed a ripple-like pattern to visualize data, showing this dynamic and transformative process. Below is our sketch. 
-
-<img src="images/Ripple.png?raw=true"/>
+<br>
+<img src="images/note.png?raw=true"/>
 
 The concentric circles represent the increasing levels of agreement with students' statements, ranging from “Strongly Disagree” to “Strongly Agree.” T
 
@@ -24,8 +25,8 @@ It symbolizes the spreading influence of generative AI in learning, much like ri
 • Glow Around the Dots: The size of the glowing circle around each dot represents the frequency of generative AI usage, ranging from “Never” to “Very Often.” Larger glows indicate higher usage frequency.
 
 When the mouse hovers over a data point, a box appears at the bottom of the visualization. This box displays detailed information linked to that specific data point, such as the student’s ID, degree, major, and gender.
-
-<img src="images/Ripple.png?raw=true"/>
+<br>
+<img src="images/ripples.png?raw=true"/>
 
 ### 4. Data Processing
 
@@ -80,5 +81,5 @@ For the nodes, we implemented transition animations. Initially, the node radius 
 
 After setting up the basic attributes for each node and its glow, we used a forEach loop to go through the entire dataset, enabling us to visualize the data and complete the chart.
 
-
+<img src="images/d3-intro.png?raw=true"/>
 
