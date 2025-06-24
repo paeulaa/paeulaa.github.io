@@ -1,17 +1,20 @@
 ## The Learning Ripple Effect of Chatbots
 
-**Project description:** An interactive ripple-inspired data visualization exploring how students’ use of AI tools spreads and evolves over time. The visualization draws on survey data about generative AI usage in learning contexts and uses concentric circles to represent levels of engagement and agreement. The ripple design metaphor offers an intuitive and dynamic way to explore student behaviors and evolving patterns of AI adoption in education.
+An interactive ripple-inspired data visualization exploring how students’ use of AI tools spreads and evolves over time. The visualization draws on survey data about generative AI usage in learning contexts and uses concentric circles to represent levels of engagement and agreement. The ripple design metaphor offers an intuitive and dynamic way to explore student behaviors and evolving patterns of AI adoption in education.
 
+***
 
 ### 1. Dataset
 
 This dataset was collected through an online survey conducted in Bulgaria between May 14 and May 31, 2023. The survey received 131 valid responses, focusing on how students perceive and use generative AI technologies like ChatGPT in learning. 
+<br>
 <br>
 <img src="images/form.png?raw=true"/>
 
 ### 2. Inspiraation
 This study illustrates how the use of conversational chatbots creates a continuous and expanding impact on learning, much like ripples in water. 
 So, we got inspirations from ripple and designed a ripple-like pattern to visualize data, showing this dynamic and transformative process. Below is our sketch. 
+<br>
 <br>
 <img src="images/note.png?raw=true"/>
 
@@ -26,6 +29,7 @@ It symbolizes the spreading influence of generative AI in learning, much like ri
 
 When the mouse hovers over a data point, a box appears at the bottom of the visualization. This box displays detailed information linked to that specific data point, such as the student’s ID, degree, major, and gender.
 <br>
+<br>
 <img src="images/ripples.png?raw=true"/>
 
 ### 4. Data Processing
@@ -33,39 +37,45 @@ When the mouse hovers over a data point, a box appears at the bottom of the visu
 Step 1: Agreement & Frequency Mapping
  
 The first  involves converting survey responses from text into numerical values. This process mapping helps make the data easier to analyze. There are two types of mappings here:
-• Agreement Mapping:
+<br>
+- **Agreement Mapping:**
+<br>
 This is for questions about levels of agreement. For example:
-• “Strongly Disagree”is mapped to 1
-• “Disagree”is mapped to 2
-• “Neutral”is mapped to 3
-• “Agree”is mapped to 4
-• “Strongly Agree”is mapped to 5
+- “Strongly Disagree”is mapped to 1
+- “Disagree”is mapped to 2
+- “Neutral”is mapped to 3
+- “Agree”is mapped to 4
+- “Strongly Agree”is mapped to 5
 
-Frequency Mapping:
+- **Frequency Mapping:**
+<br>
 This is for questions about usage frequency. For example:
-• “Never”is mapped to 1
-• “Rarely”is mapped to 2
-• “Sometimes”is mapped to 3
-• “Often”is mapped to 4
-• “Very Often”is mapped to 5
- 
+- “Never”is mapped to 1
+- “Rarely”is mapped to 2
+- “Sometimes”is mapped to 3
+- “Often”is mapped to 4
+- “Very Often”is mapped to 5
+<br>
 Mapping simplifies data by converting text responses into numeric values, making it easier to calculate averages, visualize trends, and run statistical analysis.
  
- 
- 
-The second highlight is data modeling, where we structure the raw data into an organized format that’s easier to analyze and interpret.
- 
-For example, we might have a question called“Q5.1”, which collects responses from multiple students. We organize these responses into a hierarchical structure like this:
-• The main node represents the question,“Q5.1”.
-Q5.1: I understand generative AI technologies like ChatGPT have limitations in their ability to handle complex tasks.
-• Each student’s response becomes a child node, containing:
-• Data Point Name: The label for the response.
-• Value: The numeric score of the response.
-• Distance:  Distance in this context refers to the frequency values derived from the frequency mapping of question Q4. These values, ranging from 1 to 5 (e.g., “Never” = 1, “Very Often” = 5), are used to visually represent the intensity of usage in the visualization.
-• Student Information: Including ID, degree, major, and gender.
- 
-This structure makes the data both easier to store and more flexible to analyze. For example, we can group responses by major, degree, or gender to identify specific patterns.
- 
+```
+agreement_mapping = {
+    'Strongly Disagree': 1,
+    'Disagree': 2,
+    'Neutral': 3,
+    'Agree': 4,
+    'Strongly Agree': 5
+}
+```
+```{json}
+"name": "Q5.1",
+            "children": [{
+                    "name": "Data Point 1", "value": 4, "distance": 4.0,
+                    "studentID": "0",  "degree": "Master",
+                    "major": "International_Economic_Relations",
+                    "gender": "Female" }, ...
+```
+
 
 ### 5. D3.js
 
