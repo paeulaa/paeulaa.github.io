@@ -5,7 +5,9 @@
 ### Visualization 
 
 [The Learning Ripple Effect of Chatbots](/sample_page)
-<img src="images/Ripple.png?raw=true"/>
+<br>
+<br>
+<img src="images/Ripple-1.gif?raw=true"/>
 
 ---
 [CM4AI Talent Knowledge Graph](/sample_page-2)
