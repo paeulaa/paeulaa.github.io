@@ -30,7 +30,7 @@ It symbolizes the spreading influence of generative AI in learning, much like ri
 When the mouse hovers over a data point, a box appears at the bottom of the visualization. This box displays detailed information linked to that specific data point, such as the student’s ID, degree, major, and gender.
 <br>
 <br>
-<img src="images/ripple-g.png?raw=true"/>
+<img src="images/ripple-g.gif?raw=true"/>
 
 ### 4. Data Processing
 
