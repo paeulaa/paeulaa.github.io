@@ -21,6 +21,7 @@ As part of the development team, my contributions included:
 - Troubleshooting and improving the display of author data
 - Enhancing label scaling behavior to improve readability across zoom levels and interaction states
 
+<br>
 <img src="images/cm4AI-g.gif?raw=true"/>
 
 
