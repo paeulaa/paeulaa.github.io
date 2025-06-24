@@ -35,7 +35,7 @@ An website visualizing a large-scale academic knowledge graph through a dynamic 
 ### Virtual Reality
 
 ### [Wheelchair Basketball VR Game](/sample_page-4)
-<img src="images/RAG.png?raw=true"/>
+<img src="images/VR-scene.png?raw=true"/>
 
 
 
