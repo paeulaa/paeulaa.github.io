@@ -3,7 +3,7 @@ logo: "/images/web-logo.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   <br><br>
-  Second description 
+  Tech Stack: JavaScript, HTML, CSS/SCSS, React, Node.js, MongoDB, Vercel 
   <br><br>
   <a href="/pdf/Data.pdf">View My Resume</a> 
   
