@@ -34,6 +34,9 @@ An website visualizing a large-scale academic knowledge graph through a dynamic 
 ### Virtual Reality
 
 ### [Wheelchair Basketball VR Game](/sample_page-4)
+
+VR Wheelchair Basketball is a VR game designed to explore how immersive technology can help people with physical disabilities stay active at home.
+
 <img src="images/VR-scene.png?raw=true"/>
 
 
