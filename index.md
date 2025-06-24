@@ -12,7 +12,10 @@ An interactive ripple-inspired visualization using React, D3.js, and a custom da
 <img src="images/Ripple-1.gif?raw=true"/>
 
 ---
-[CM4AI Talent Knowledge Graph](/sample_page-2)
+
+### [CM4AI Talent Knowledge Graph](/sample_page-2)
+<br>
+<br>
 <img src="images/CM4AI.png?raw=true"/>
 
 ---
