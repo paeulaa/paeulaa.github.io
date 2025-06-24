@@ -1,6 +1,6 @@
 ## CM4AI Talent Knowledge Graph
 
-CM4AI Knowledge Graph is an interactive visualization platform designed to help researchers explore a large-scale academic graph.
+CM4AI Knowledge Graph is an interactive visualization website designed to help researchers explore a large-scale academic graph.
 
 ***
 
