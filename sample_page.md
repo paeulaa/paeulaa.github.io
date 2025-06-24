@@ -15,10 +15,11 @@ Survey data from 131 students on their use of generative AI in learning.
 #### 2. ETL Pipeline
 Raw text data was processed into hierarchical JSON with Python & SQLite, mapping agreement and frequency levels numerically.
 <br>
+<br>
 **Step 1: Mapping responses** <br>
 Survey answers were converted from text to numeric values for visualization and analysis.
 <br>
-- Agreement Mapping: “Strongly Disagree” → 1, ..., “Strongly Agree” → 5
+- Agreement Mapping: <br>“Strongly Disagree” → 1, ..., “Strongly Agree” → 5
 - Frequency Mapping: “Never” → 1, ..., “Very Often” → 5
 <br>
 
@@ -45,7 +46,6 @@ D3.js was used to draw the concentric circles, animate nodes, and handle interac
 ### How It Works
 
 <img src="images/note-1.png?raw=true"/>
-<br>
 <br>
 - **Ripple Design**: Concentric circles represent levels of agreement (from “Strongly Disagree” to “Strongly Agree”)
 - **Red Dots**: Each dot = a student response
