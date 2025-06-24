@@ -14,7 +14,7 @@ Compared to traditional tools like Gephi, the platform provides smoother perform
 ***
 
 ### Frontend Development Highlights
-As part of the development team, my contributions included:
+
 - Integrating 5,000+ BioEntity nodes into the graph
 - Tuning node appearance and setting CM4AI as the default highlighted category
 - Implementing publication count and author begin year filters to support dynamic filtering by experience and publication volume
