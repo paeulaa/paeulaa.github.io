@@ -5,8 +5,7 @@
 ### Visualization 
 
 ### [The Learning Ripple Effect of Chatbots](/sample_page)
-<br>
-<br>
+
 An interactive ripple-inspired visualization using React, D3.js, and a custom data pipeline with SQLite, representing how students' use of AI tools spreads and evolves over time. Designed and implemented full-stack, from data processing to frontend interaction.
 <br>
 <br>
