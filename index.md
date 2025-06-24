@@ -13,7 +13,7 @@ An interactive ripple-inspired visualization using React, D3.js, and a custom da
 
 ---
 [CM4AI Talent Knowledge Graph](/sample_page-2)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/CM4AI.png?raw=true"/>
 
 ---
 
