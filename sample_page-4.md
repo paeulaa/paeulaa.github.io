@@ -26,9 +26,14 @@ Key features:
 - **Hand gesture tracking** for shooting
 - **Wheel rotation tracking** for movement
 <br>
+<img src="images/prototype_concept.png?raw=true"/>
+<img src="images/VR-p1.png?raw=true"/>
+<br>
 User testing revealed disorientation after prolonged play. In response, we added:
 - **Instructional UI**
 - A **floating wheelchair indicator** (color-coded) to help users stay oriented.
+
+<img src="images/VR-p2.png?raw=true"/>
 
 ***
 
@@ -43,6 +48,8 @@ I contributed as a **product designer** and **product manager**:
 - Coordinated team progress and communication
 - Presented the project at IEEE AIxXR Conference on behalf of the team
 
+<br>
+<img src="images/VR-outcome.png?raw=true"/>
 
 
 
