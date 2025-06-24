@@ -30,6 +30,7 @@ Key features:
 
 <img src="images/VR-p1.png?raw=true"/>
 <br>
+<br>
 User testing revealed disorientation after prolonged play. In response, we added:
 - **Instructional UI**
 - A **floating wheelchair indicator** (color-coded) to help users stay oriented.
@@ -39,7 +40,7 @@ User testing revealed disorientation after prolonged play. In response, we added
 ***
 
 ### Outcome
-Testers described the experience as physically demanding, which validated our goal of promoting exercise. The project was presented at IEEE AIxXR Conference, where I represented the team.
+Testers described the experience as physically demanding, which validated our goal of promoting exercise. The project was later presented at the IEEE AIxXR Conference as part of the conference’s selected works.
 
 ***
 
