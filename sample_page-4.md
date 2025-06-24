@@ -26,8 +26,6 @@ Key features:
 - **Hand gesture tracking** for shooting
 - **Wheel rotation tracking** for movement
 
-<br>
-
 <img src="images/VR-p1.png?raw=true"/>
 <br>
 <br>
@@ -50,7 +48,6 @@ I contributed as a **product designer** and **product manager**:
 - Coordinated team progress and communication
 - Presented the project at IEEE AIxXR Conference on behalf of the team
 
-<br>
 <img src="images/VR-outcome.png?raw=true"/>
 
 
