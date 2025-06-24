@@ -40,10 +40,6 @@ User testing revealed disorientation after prolonged play. In response, we added
 ### Outcome
 Testers described the experience as physically demanding, which validated our goal of promoting exercise. The project was later presented at the IEEE AIxXR Conference as part of the conference’s selected works.
 
-<video id="video" controls="" preload="none" poster="cover">
-      <source id="mp4" src="images/baketball_clip-1.mp4?raw=true" type="video/mp4">
-</videos>
-
 
 ***
 
