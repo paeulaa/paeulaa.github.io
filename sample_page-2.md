@@ -8,6 +8,7 @@ CM4AI Knowledge Graph is an interactive visualization website designed to help r
 
 The graph features over 28,000 AI experts, 1,000+ biomedical datasets, and 5,000+ bio entities, visualized through a dynamic WebGL interface combined with LLM-powered recommendations. Users can browse the graph, apply filters, and receive AI-suggested collaborators and resources — with transparent explanations for each suggestion.
 <br>
+<br>
 Compared to traditional tools like Gephi, the platform provides smoother performance and richer interactivity, making it especially useful for navigating large, complex academic networks.
 
 ***
