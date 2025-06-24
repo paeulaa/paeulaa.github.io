@@ -10,8 +10,9 @@ The graph features over 28,000 AI experts, 1,000+ biomedical datasets, and 5,000
 <br>
 Compared to traditional tools like Gephi, the platform provides smoother performance and richer interactivity, making it especially useful for navigating large, complex academic networks.
 
+***
+
 ### Frontend Development Highlights
-<br>
 As part of the development team, my contributions included:
 - Integrating 5,000+ BioEntity nodes into the graph
 - Tuning node appearance and setting CM4AI as the default highlighted category
