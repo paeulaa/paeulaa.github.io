@@ -14,6 +14,8 @@ An interactive ripple-inspired visualization using React, D3.js, and a custom da
 ---
 
 ### [CM4AI Talent Knowledge Graph](/sample_page-2)
+
+An website visualizing a large-scale academic knowledge graph through a dynamic WebGL interface with LLM-powered recommendations. Users can explore connections, apply filters, and discover AI-suggested collaborators and resources with clear explanations.
 <br>
 <br>
 <img src="images/CM4AI.png?raw=true"/>
