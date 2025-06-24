@@ -30,7 +30,7 @@ It symbolizes the spreading influence of generative AI in learning, much like ri
 When the mouse hovers over a data point, a box appears at the bottom of the visualization. This box displays detailed information linked to that specific data point, such as the student’s ID, degree, major, and gender.
 <br>
 <br>
-<img src="images/ripples.png?raw=true"/>
+<img src="images/ripple-g.png?raw=true"/>
 
 ### 4. Data Processing
 
@@ -57,7 +57,7 @@ This is for questions about usage frequency. For example:
 - “Very Often”is mapped to 5
 <br>
 Mapping simplifies data by converting text responses into numeric values, making it easier to calculate averages, visualize trends, and run statistical analysis.
- 
+<br>
 ```
 agreement_mapping = {
     'Strongly Disagree': 1,
@@ -91,5 +91,5 @@ For the nodes, we implemented transition animations. Initially, the node radius 
 
 After setting up the basic attributes for each node and its glow, we used a forEach loop to go through the entire dataset, enabling us to visualize the data and complete the chart.
 
-<img src="images/d3-intro.png?raw=true"/>
+<img src="images/d3-intro-1.png?raw=true"/>
 
