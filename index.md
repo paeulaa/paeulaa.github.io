@@ -21,8 +21,6 @@ An website visualizing a large-scale academic knowledge graph through a dynamic 
 
 ---
 
----
-
 ### Prompt Engineering
 
 ### [Shakespearean Chatbot with RAG + GPT-3.5 Turbo](/pdf/m3-1.html)
@@ -38,9 +36,6 @@ An website visualizing a large-scale academic knowledge graph through a dynamic 
 VR Wheelchair Basketball is a VR game designed to explore how immersive technology can help people with physical disabilities stay active at home.
 
 <img src="images/VR-scene.png?raw=true"/>
-
-
-
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
