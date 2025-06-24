@@ -12,7 +12,7 @@ Survey data from 131 students on their use of generative AI in learning.
 <br>
 <img src="images/questions.png?raw=true"/>
 
-#### 2. ETL Pipeline
+#### 2. Data Processing
 Raw text data was processed into hierarchical JSON with Python & SQLite, mapping agreement and frequency levels numerically.
 <br>
 <br>
