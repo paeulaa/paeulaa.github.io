@@ -25,8 +25,9 @@ These insights shaped our prototype — focused on replicating the physical expe
 Key features:
 - **Hand gesture tracking** for shooting
 - **Wheel rotation tracking** for movement
+
 <br>
-<img src="images/prototype_concept.png?raw=true"/>
+
 <img src="images/VR-p1.png?raw=true"/>
 <br>
 User testing revealed disorientation after prolonged play. In response, we added:
