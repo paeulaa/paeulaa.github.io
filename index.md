@@ -25,7 +25,7 @@ An website visualizing a large-scale academic knowledge graph through a dynamic 
 
 ### Prompt Engineering
 
-### [Shakespearean Chatbot with RAG + GPT-3.5 Turbo](/sample_page-3)
+### [Shakespearean Chatbot with RAG + GPT-3.5 Turbo](/pdf/m3-1.html)
 <img src="images/RAG.png?raw=true"/>
 
 
