@@ -38,4 +38,4 @@ VR Wheelchair Basketball is a VR game designed to explore how immersive technolo
 <img src="images/VR-scene.png?raw=true"/>
 
 ---
-<p style="font-size:9px">copyright © juichien - all rights reserved</p>
+<p style="font-size:11px">copyright © juichien - all rights reserved</p>
