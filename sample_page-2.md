@@ -25,4 +25,5 @@ Compared to traditional tools like Gephi, the platform provides smoother perform
 <br>
 <img src="images/cm4AI-g.gif?raw=true"/>
 
-
+***
+<p style="font-size:11px">copyright © juichien - all rights reserved</p>
