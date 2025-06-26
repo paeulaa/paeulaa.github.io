@@ -61,3 +61,5 @@ The final visualization presents student responses as ripple-like concentric cir
 <br>
 <img src="images/ripple-g.gif?raw=true"/>
 
+***
+<p style="font-size:11px">copyright © juichien - all rights reserved</p>
