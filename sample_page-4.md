@@ -51,7 +51,8 @@ I contributed as a **product designer** and **product manager**:
 
 <img src="images/VR-outcome.png?raw=true"/>
 
-
+***
+<p style="font-size:11px">copyright © juichien - all rights reserved</p>
 
 
 
