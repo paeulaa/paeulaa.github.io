@@ -5,7 +5,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Tech Stack: Figma, JavaScript, React.js, Node.js, MongoDB, Vercel
   <br><br>
-  <a href="/pdf/Data.pdf">View My Resume</a> 
+  <a href="/pdf/jui-chien-resume.pdf">View My Resume</a> 
  
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
