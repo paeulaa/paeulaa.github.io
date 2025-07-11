@@ -31,28 +31,20 @@ VR Wheelchair Basketball is a VR game designed to explore how immersive technolo
 
 ---
 
-### Design
-
-### [Pitch in](/pdf/dStorytelling.pdf)
-
-Promoting ecology and community through libraries
-
-<img src="images/Pitchin-cover.png?raw=true"/>
-
----
-
-### [Making the UNIQLO App Better: A Usability Study](/pdf/Usability-study-of-Uniqlo.pdf)
-
-Hands-on usability research project focused on identifying pain points in the Uniqlo app. Conducted user interviews, task analysis, and usability testing as part of a full UX evaluation. Delivered actionable insights to improve the overall experience.
-
-<img src="images/usability-study-cover.png?raw=true"/>
-
----
-
 ### Prompt Engineering
 
 ### [Shakespearean Chatbot with RAG + GPT-3.5 Turbo](/pdf/m3-1.html)
 <img src="images/RAG.png?raw=true"/>
+
+---
+
+
+### [Making the UNIQLO App Better: A Usability Study](/pdf/Usability-study-of-Uniqlo.pdf)
+
+Hands-on usability research project focused on identifying pain points in the Uniqlo app. Conducted user interviews, task analysis, and usability testing as part of a full UX evaluation. Delivered actionable insights to improve the overall experience.
+<img src="images/usability-study-cover.png?raw=true"/>
+
+
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
