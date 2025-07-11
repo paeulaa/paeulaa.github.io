@@ -31,15 +31,13 @@ VR Wheelchair Basketball is a VR game designed to explore how immersive technolo
 
 ---
 
-### Design Storytelling
+### Design
 
 ### [Pitch in](/pdf/dStorytelling.pdf)
 
 Promoting ecology and community through libraries
 
 ---
-
-### Usability Study of Uniqlo App
 
 ### [Making the UNIQLO App Better: A Usability Study](/pdf/Usability-study-of-Uniqlo.pdf)
 
