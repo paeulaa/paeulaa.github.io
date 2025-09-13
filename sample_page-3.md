@@ -25,7 +25,7 @@ We started with **Nielsen’s 10 Usability Heuristics** and reviewed key feature
 
 This framework helped us separate cosmetic issues from the **critical usability barriers** that need urgent attention.  
 
-📷 *[Suggested visual: Severity Scale table]*  
+<img src="images/Severity Scale.png?raw=true"/>
 
 ---
 
@@ -41,7 +41,8 @@ We built a rubric focusing on:
 
 This helped us spot which pain points are common across fashion apps, and which are unique to UNIQLO.  
 
-📷 *[Suggested visual: checkout flow comparison screenshots]*  
+<img src="images/rubric.png?raw=true"/>
+<img src="images/branding chart.png?raw=true"/>
 
 ---
 
@@ -66,8 +67,7 @@ This was the heart of our study.
 
 - **Data Analysis**: We synthesized findings using **Task Analysis, Severity Ratings, and Affinity Mapping** to cluster issues into clear problem groups.  
 
-📷 *[Suggested visual: usability testing session photo or task flow diagram]*  
-
+<img src="images/demographics.png?raw=true"/>
 
 
 ## What We Found  
@@ -84,7 +84,7 @@ To view the cart, users had to log in. Without guest checkout or social sign-in,
 **Privacy Concerns**  
 During registration and reviews, the app asked for excessive personal information. Many participants felt this was unnecessary, which reduced trust in the platform.  
 
-📷 *[Suggested visuals: navigation screenshots / add-to-cart screen / login prompt / registration form]*  
+<img src="images/what-we-found.png?raw=true"/> 
 
 
 
@@ -99,8 +99,8 @@ During registration and reviews, the app asked for excessive personal informatio
   - Task #4 (navigation flow): **Serious (3)**  
   - Remaining tasks: mostly minor or moderate issues  
 
-📷 *[Suggested visual: SUS bar chart / severity heatmap]*  
-
+<img src="images/SUS-1.png?raw=true"/>
+<img src="images/SUS-2.png?raw=true"/>
 
 
 ## Why This Matters  
