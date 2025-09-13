@@ -6,7 +6,7 @@ Thinking of making Uniqlo App better
 
 When we open the official UNIQLO app, we expect a digital experience that feels just as simple and comfortable as the brand’s **LifeWear** philosophy. But as UX designers, we had a question: *is the app really as intuitive and seamless as we think?*  
 
-To find out, we ran a **usability study**. Our goal wasn’t to jump straight into redesign solutions. Instead, we focused on **defining and evaluating problems**—understanding exactly where users get stuck and how severe those issues are.  
+To find out, we ran a **usability study**. Our goal wasn’t to jump straight into redesign solutions. Instead, we focused on **defining and evaluating problems**, which helps us understand exactly where users get stuck and how severe those issues are.  
 
 
 ## Our Research Approach  
@@ -124,7 +124,7 @@ The UNIQLO app is feature-rich and overall performs above average, but our study
 - Overly strict login requirements  
 - Excessive data collection  
 
-These aren’t just minor annoyances—they affect trust and flow in meaningful ways.  
+These aren’t just minor annoyances, they might affect trust and flow in meaningful ways.  
 
 For us, this usability study wasn’t an end point. It was a **starting point**. By clearly defining and evaluating the problems, we set the stage for future improvements that can bring the app closer to UNIQLO’s LifeWear promise: **simple, comfortable, and user-centered.**  
 
