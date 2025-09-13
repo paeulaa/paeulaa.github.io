@@ -58,12 +58,14 @@ Account registration and reviews asked for too much personal information. Severa
 
 ### The Numbers
 
-- **SUS Score:** 77/100
-  That’s above the industry average of 68, which means the app is “good,” but not “great.”
-- **Severity Ratings**
-  Task #3 (adding to cart) and Task #7 (login/cart access) = Critical (4)
-  Task #4 (navigation/switching pages) = Serious (3)
-  The rest = mostly minor issues
+**SUS Score:** 
+- 77/100
+- That’s above the industry average of 68, which means the app is “good,” but not “great.”
+
+**Severity Ratings**
+- Task #3 (adding to cart) and Task #7 (login/cart access) = Critical (4)
+- Task #4 (navigation/switching pages) = Serious (3)
+- The rest = mostly minor issues
 
 ***
 
