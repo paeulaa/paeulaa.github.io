@@ -15,7 +15,7 @@ To find out, our team ran a usability study. Our goal wasn’t to redesign the a
 
 ***
 
-## How We Approached It
+### How We Approached It
 
 We used a three-part process:
 
