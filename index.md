@@ -39,7 +39,7 @@ VR Wheelchair Basketball is a VR game designed to explore how immersive technolo
 ---
 
 
-### [Making the UNIQLO App Better: A Usability Study](/pdf/Usability-study-of-Uniqlo.pdf)
+### [Making the UNIQLO App Better: A Usability Study](/sammple_page-3)
 
 Hands-on usability research project focused on identifying pain points in the Uniqlo app. Conducted user interviews, task analysis, and usability testing as part of a full UX evaluation. Delivered actionable insights to improve the overall experience.
 <img src="images/usability-study-cover.png?raw=true"/>
