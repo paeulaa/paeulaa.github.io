@@ -2,93 +2,130 @@
 
 Thinking of making Uniqlo App better
 
-***
+## Introduction  
 
-### Introduction
+When we open the official UNIQLO app, we expect a digital experience that feels just as simple and comfortable as the brand’s **LifeWear** philosophy. But as UX designers, we had a question: *is the app really as intuitive and seamless as we think?*  
+
+To find out, we ran a **usability study**. Our goal wasn’t to jump straight into redesign solutions. Instead, we focused on **defining and evaluating problems**—understanding exactly where users get stuck and how severe those issues are.  
 
 
-When we think of UNIQLO, we think of simple, functional, and timeless clothing. Their brand philosophy, “LifeWear,” is all about making everyday life more comfortable.
+## Our Research Approach  
 
-So naturally, we were curious: Does the UNIQLO app live up to that same promise of simplicity and comfort?
+We used a three-layered process:  
 
-To find out, our team ran a usability study. Our goal wasn’t to redesign the app from scratch—it was to define and evaluate the problems users run into, so future design work could be more focused and effective.
+### 1. Heuristic Evaluation  
 
-***
+We started with **Nielsen’s 10 Usability Heuristics** and reviewed key features of the UNIQLO app. Every issue was assigned a **Severity Rating (0–4):**  
 
-### How We Approached It
+- 0 = No problem  
+- 1 = Minor, barely noticeable  
+- 2 = Moderate, slows efficiency  
+- 3 = Serious, impacts task completion  
+- 4 = Critical, blocks the task entirely  
 
-We used a three-part process:
+This framework helped us separate cosmetic issues from the **critical usability barriers** that need urgent attention.  
 
-1. Heuristic Evaluation
-We reviewed the app against Nielsen’s 10 Usability Heuristics and scored issues using a severity scale from 0–4 (0 = no problem, 4 = critical blocker). This helped us quickly separate cosmetic issues from major usability barriers.
+📷 *[Suggested visual: Severity Scale table]*  
 
-2. Competitive Analysis
-We compared UNIQLO with competitors like H&M, GAP, American Eagle, Lululemon, Sephora, and Farfetch. We looked at:
+---
 
-- Checkout flow
-- How easy it is to discover products and features
-- Sizing tools and accuracy
-- Unique features that boost brand loyalty
+### 2. Competitive Analysis  
 
-3. Usability Testing
-This was the core of our study.
+To see where UNIQLO stands, we compared it against both **direct competitors** (H&M, GAP, American Eagle) and **indirect competitors** (Lululemon, Sephora, Farfetch).  
 
-- **Participants:** 20 people, ages 20–40, a mix of new and experienced UNIQLO app users.
-- **Setup:** 8 moderated sessions with task-based scenarios, like finding a product, applying filters, or adding items to the cart.
-- **Data collection:** We recorded screens, used think-aloud protocol, took observation notes, and had users complete the System Usability Scale (SUS) plus task difficulty ratings.
-- **Iterations:** Early on, one of our tasks (“add two of the same product to your cart”) confused people without surfacing the insights we wanted, so we scrapped it. We also switched from asking SUS questions out loud to using a Google Form—way smoother and less confusing for participants.
+We built a rubric focusing on:  
+- **Checkout Process** – Is it fast and transparent?  
+- **Discoverability** – How easy is it to find products and features?  
+- **Sizing Features** – Are size guides and fit tools accurate?  
+- **Unique Experience** – What makes the app engaging or distinctive?  
 
-***
+This helped us spot which pain points are common across fashion apps, and which are unique to UNIQLO.  
 
-### What We Found
+📷 *[Suggested visual: checkout flow comparison screenshots]*  
 
-**Navigation Pain Points**
-People struggled to find categories, filters, and sorting options. The transitions between product pages and the homepage often felt clunky and inconsistent.
+---
 
-**Missing Feedback**
-Adding an item to the cart didn’t give clear confirmation—no visual change, just a small pop-up. Same issue with wishlist buttons not updating consistently. This made users question if their actions went through.
+### 3. Usability Testing  
 
-**Rigid Login Requirements**
-Users had to log in just to view their cart. No option for guest checkout or quick social sign-in. This broke the flow and frustrated testers who just wanted to browse casually.
+This was the heart of our study.  
 
-**Privacy Concerns**
-Account registration and reviews asked for too much personal information. Several participants flagged this as unnecessary and said it reduced their trust in the app.
+- **Participants**: 20 users, ages 20–40, a mix of new and experienced UNIQLO app users.  
+- **Research Design**: We created 8 **task-based scenarios**, including:  
+  - Find a specific product and browse details  
+  - Use filters to narrow results  
+  - Add items to the cart and review the cart  
+  - Complete the checkout process  
 
-***
+- **Pilot Iteration**: At first, we included a task asking users to add two of the same item to their cart. It ended up confusing participants without surfacing the insights we wanted, so we removed it to keep the study focused.  
 
-### The Numbers
+- **Data Collection**:  
+  - **Screen recordings** and **think-aloud protocol** (participants verbalized their thoughts while navigating)  
+  - **Observation notes** tracking hesitation, misclicks, and pauses  
+  - **System Usability Scale (SUS) questionnaire** – we initially asked questions verbally but switched to a Google Form, which was faster and clearer  
+  - **Task difficulty ratings** (users rated how easy or hard each task felt)  
 
-**SUS Score:** 
-- 77/100
-- That’s above the industry average of 68, which means the app is “good,” but not “great.”
+- **Data Analysis**: We synthesized findings using **Task Analysis, Severity Ratings, and Affinity Mapping** to cluster issues into clear problem groups.  
 
-**Severity Ratings**
-- Task #3 (adding to cart) and Task #7 (login/cart access) = Critical (4)
-- Task #4 (navigation/switching pages) = Serious (3)
-- The rest = mostly minor issues
-
-***
-
-### Why This Matters
-
-This study wasn’t about jumping straight to solutions. It was about pinpointing the problems and sizing them up:
-- Where do users get stuck?
-- How badly do those issues affect their experience?
-- Which problems are minor annoyances, and which are real deal-breakers?
-By answering those questions, we gave the design team a clear roadmap for prioritization.
-
-***
-
-### Wrapping Up
-
-The UNIQLO app is solid. The scores above average and offers plenty of useful features, but our research shows that even a well-loved brand can trip users up with navigation gaps, missing feedback, login barriers, and privacy red flags.
-
-By clearly defining these issues, we set the stage for future improvements that can bring the app closer to UNIQLO’s LifeWear philosophy: simple, reliable, and truly user-centered.
+📷 *[Suggested visual: usability testing session photo or task flow diagram]*  
 
 
 
+## What We Found  
+
+**Navigation Issues**  
+Users often got lost moving between the homepage and product pages. Categories, filters, and sorting tools were hard to find—some people didn’t even realize filter options existed.  
+
+**Missing Feedback**  
+When adding an item to the cart, nothing visibly changed aside from a small pop-up. Wishlist buttons didn’t update consistently either, leaving users unsure if their actions were successful.  
+
+**Rigid Login Requirements**  
+To view the cart, users had to log in. Without guest checkout or social sign-in, this created friction and interrupted the flow, especially for casual browsers.  
+
+**Privacy Concerns**  
+During registration and reviews, the app asked for excessive personal information. Many participants felt this was unnecessary, which reduced trust in the platform.  
+
+📷 *[Suggested visuals: navigation screenshots / add-to-cart screen / login prompt / registration form]*  
 
 
 
+## Quantitative Insights  
+
+- **System Usability Scale (SUS)** → **77/100**  
+  - Above the industry average of 68  
+  - Suggests the app is “good,” but not yet “excellent”  
+
+- **Severity Ratings** →  
+  - Task #3 (add to cart) and Task #7 (login/cart access): **Critical (4)**  
+  - Task #4 (navigation flow): **Serious (3)**  
+  - Remaining tasks: mostly minor or moderate issues  
+
+📷 *[Suggested visual: SUS bar chart / severity heatmap]*  
 
 
+
+## Why This Matters  
+
+The value of this study wasn’t about delivering quick design fixes. It was about:  
+
+- **Problem Definition** – Where exactly do users get stuck?  
+- **Problem Evaluation** – How badly does it affect their experience?  
+- **Prioritization** – Which issues can wait, and which need urgent fixes?  
+
+By structuring our process this way, we gave the team a **clear map of usability pain points** before jumping into design changes.  
+
+
+
+## Conclusion  
+
+The UNIQLO app is feature-rich and overall performs above average, but our study revealed several structural challenges:  
+
+- Confusing navigation  
+- Lack of feedback for key actions  
+- Overly strict login requirements  
+- Excessive data collection  
+
+These aren’t just minor annoyances—they affect trust and flow in meaningful ways.  
+
+For us, this usability study wasn’t an end point. It was a **starting point**. By clearly defining and evaluating the problems, we set the stage for future improvements that can bring the app closer to UNIQLO’s LifeWear promise: **simple, comfortable, and user-centered.**  
+
+📷 *[Suggested visual: UNIQLO brand closing image / “LifeWear” slogan]*  
