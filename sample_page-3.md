@@ -25,7 +25,7 @@ We started with **Nielsen’s 10 Usability Heuristics** and reviewed key feature
 
 This framework helped us separate cosmetic issues from the **critical usability barriers** that need urgent attention.  
 
-<img src="images/Severity Scale.png?raw=true"/>
+<img src="images/severity-scale.png?raw=true"/>
 
 ---
 
@@ -42,7 +42,7 @@ We built a rubric focusing on:
 This helped us spot which pain points are common across fashion apps, and which are unique to UNIQLO.  
 
 <img src="images/rubric.png?raw=true"/>
-<img src="images/branding chart.png?raw=true"/>
+<img src="images/branding.png?raw=true"/>
 
 ---
 
@@ -67,7 +67,7 @@ This was the heart of our study.
 
 - **Data Analysis**: We synthesized findings using **Task Analysis, Severity Ratings, and Affinity Mapping** to cluster issues into clear problem groups.  
 
-<img src="images/demographics.png?raw=true"/>
+<img src="images/dempgraphics.png?raw=true"/>
 
 
 ## What We Found  
@@ -128,4 +128,4 @@ These aren’t just minor annoyances, they might affect trust and flow in meanin
 
 For us, this usability study wasn’t an end point. It was a **starting point**. By clearly defining and evaluating the problems, we set the stage for future improvements that can bring the app closer to UNIQLO’s LifeWear promise: **simple, comfortable, and user-centered.**  
 
-📷 *[Suggested visual: UNIQLO brand closing image / “LifeWear” slogan]*  
+<img src="images/life-wear.png?raw=true"/> 
