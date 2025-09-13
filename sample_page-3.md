@@ -81,7 +81,7 @@ By answering those questions, we gave the design team a clear roadmap for priori
 
 ### Wrapping Up
 
-The UNIQLO app is solid—it scores above average and offers plenty of useful features. But our research shows that even a well-loved brand can trip users up with navigation gaps, missing feedback, login barriers, and privacy red flags.
+The UNIQLO app is solid. The scores above average and offers plenty of useful features, but our research shows that even a well-loved brand can trip users up with navigation gaps, missing feedback, login barriers, and privacy red flags.
 
 By clearly defining these issues, we set the stage for future improvements that can bring the app closer to UNIQLO’s LifeWear philosophy: simple, reliable, and truly user-centered.
 
