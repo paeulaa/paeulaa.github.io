@@ -26,14 +26,14 @@ Our key metrics:
 Men consistently showed higher flexibility of closure than women, while participants with higher memory span tended to score slightly higher in verbal closure.  
 
 <img src="images/AB-testing/figure3.png?raw=true"/>  
-<img src="images/AB-testing/figure4-5.png?raw=true"/>  
+<img src="images/AB-testing/figrue4-5.png?raw=true"/>  
 
 ---
 
 ### 2. Interface & Task Complexity  
 Users achieved the **fastest completion times with Interface B on easy tasks**. Difficult tasks required more time overall, but there was no statistically significant difference between A and B under difficult conditions.  
 
-<img src="images/AB-testing/figure6.png?raw=true"/>  
+<img src="images/AB-testing/figrue6.png?raw=true"/>  
 <img src="images/AB-testing/figure7.png?raw=true"/>  
 
 ---
