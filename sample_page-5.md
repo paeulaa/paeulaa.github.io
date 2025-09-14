@@ -3,8 +3,7 @@
 ## Introduction  
 In this project, we explored how **interface design** (Interface A vs. B) and **task complexity** (easy vs. difficult) affect user performance. The dataset covered **38 participants**, segmented into four personas based on **gender** and **memory span**. We also factored in **cognitive traits** like verbal closure and flexibility of closure.  
 
-<img src="images/A-B-testing-project/user segmentation.png?raw=true"/>  
-<img src="images/A-B-testing-project/interfaceAB.png?raw=true"/>  
+<img src="images/AB-testing/figure1.png?raw=true"/>  
 
 ---
 
@@ -26,17 +25,16 @@ Our key metrics:
 ### 1. Persona-Level Insights  
 Men consistently showed higher flexibility of closure than women, while participants with higher memory span tended to score slightly higher in verbal closure.  
 
-<img src="images/A-B-testing-project/mean-sd-verbal-flexibility.png?raw=true"/>  
-<img src="images/figure4-flexibility-closure.png?raw=true"/>  
-<img src="images/figure5-verbal-closure.png?raw=true"/>  
+<img src="images/AB-testing/figure3.png?raw=true"/>  
+<img src="images/AB-testing/figure4-5.png?raw=true"/>  
 
 ---
 
 ### 2. Interface & Task Complexity  
 Users achieved the **fastest completion times with Interface B on easy tasks**. Difficult tasks required more time overall, but there was no statistically significant difference between A and B under difficult conditions.  
 
-<img src="images/figure6-mean-sd-taskduration.png?raw=true"/>  
-<img src="images/figure7-histogram-taskduration.png?raw=true"/>  
+<img src="images/AB-testing/figure6.png?raw=true"/>  
+<img src="images/AB-testing/figure7.png?raw=true"/>  
 
 ---
 
@@ -45,8 +43,7 @@ Performance varied across personas:
 - **Interface B (easy tasks)** → concentrated performance, narrow variance.  
 - **Interface A (difficult tasks)** → wider variance, larger gaps between personas.  
 
-<img src="images/figure8-boxplot-efforts.png?raw=true"/>  
-<img src="images/figure9-scatter-verbal-flexibility.png?raw=true"/>  
+<img src="images/AB-testing/figure8-9.png?raw=true"/>  
 
 ---
 
@@ -55,8 +52,8 @@ Performance varied across personas:
 - **T-test (Difficult A vs. Difficult B):** No significant difference.  
 - **T-test (Easy vs. Difficult in A):** Significant difference—difficult tasks clearly slower.  
 
-<img src="images/figure10-confidence-interval.png?raw=true"/>  
-<img src="images/figure16-mean-difference.png?raw=true"/>  
+<img src="images/AB-testing/figure10.png?raw=true"/>  
+<img src="images/AB-testing/figure16.png?raw=true"/>  
 
 ---
 
@@ -65,10 +62,8 @@ We integrated fixation data to examine attention load. Strong correlation was ob
 - More fixations → longer task durations (R² ≈ 0.86).  
 - Log-transformed data normalized skewed distributions for statistical testing.  
 
-<img src="images/figure18-histogram-taskduration-log.png?raw=true"/>  
-<img src="images/figure20-histogram-fixationduration-log.png?raw=true"/>  
-<img src="images/figure22-histogram-fixationcount-log.png?raw=true"/>  
-<img src="images/figure23-scatter-fixation-taskduration.png?raw=true"/>  
+<img src="images/AB-testing/figure18-20-22.png?raw=true"/>  
+<img src="images/AB-testing/figure23.png?raw=true"/>  
 
 ---
 
@@ -77,10 +72,10 @@ We integrated fixation data to examine attention load. Strong correlation was ob
 - **Memory span** alone was not a significant factor.  
 - No significant interaction between interface and memory span.  
 
-<img src="images/figure24-descriptive-taskduration.png?raw=true"/>  
-<img src="images/figure25-anova-taskduration.png?raw=true"/>  
-<img src="images/figure27-descriptive-fixationduration.png?raw=true"/>  
-<img src="images/figure28-anova-fixationduration.png?raw=true"/>  
+<img src="images/AB-testing/figure24.png?raw=true"/>  
+<img src="images/AB-testing/figure25.png?raw=true"/>  
+<img src="images/AB-testing/figure27.png?raw=true"/>  
+<img src="images/AB-testing/figure28.png?raw=true"/>  
 
 ---
 
