@@ -44,7 +44,9 @@ VR Wheelchair Basketball is a VR game designed to explore how immersive technolo
 Hands-on usability research project focused on identifying pain points in the Uniqlo app. Conducted user interviews, task analysis, and usability testing as part of a full UX evaluation. Delivered actionable insights to improve the overall experience.
 <img src="images/usability-study-cover.png?raw=true"/>
 
+---
 
+### [A/B Testing Case Study ](/sample_page-5)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
