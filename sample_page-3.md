@@ -21,11 +21,13 @@ We started with **Nielsen’s 10 Usability Heuristics** and reviewed key feature
 - 1 = Minor, barely noticeable  
 - 2 = Moderate, slows efficiency  
 - 3 = Serious, impacts task completion  
-- 4 = Critical, blocks the task entirely  
+- 4 = Critical, blocks the task entirely
+
+<img src="images/severity-scale.png?raw=true"/>
 
 This framework helped us separate cosmetic issues from the **critical usability barriers** that need urgent attention.  
 
-<img src="images/severity-scale.png?raw=true"/>
+<img src="images/heuristic.png?raw=true"/>
 
 ---
 
