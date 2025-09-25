@@ -44,7 +44,7 @@ Testers described the experience as physically demanding, which validated our go
 ***
 
 ### My Role
-I contributed as a **product designer** and **product manager**:
+I contributed as a **product manager** and part of **product designer**:
 - Designed game flow and UI prefabs
 - Coordinated team progress and communication
 - Presented the project at IEEE AIxXR Conference on behalf of the team
