@@ -29,6 +29,14 @@ This framework helped us separate cosmetic issues from the **critical usability 
 
 <img src="images/heuristic.png?raw=true"/>
 
+From this review, a few recurring usability issues became clear:
+
+- First, users often did not receive real-time feedback when completing key actions such as adding items to the cart or wishlist. This left them uncertain whether the action was successful.
+- We also noticed inconsistencies in the interface design, from font styles to menu layouts, which made the overall experience feel less cohesive.
+- In addition, the app provided limited error messaging. For example, when a discount code failed, users were given vague responses that didn’t explain what went wrong or how to resolve it.
+- Finally, there were moments when the system status was unclear. Without progress indicators during tasks like search or checkout, users were left wondering if the app was still processing their request.
+
+
 ---
 
 ### 2. Competitive Analysis  
