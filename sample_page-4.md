@@ -45,8 +45,11 @@ Testers described the experience as physically demanding, which validated our go
 
 ### My Role
 I contributed as a **product manager** and part of **product designer**:
+
+- Created user flows and a project roadmap to align player interactions with development milestones
+- Conducted competitive analysis to position the project within the XR/AI landscape
+- Developed a presentation deck to communicate design and technical decisions
 - Designed game flow and UI prefabs
-- Coordinated team progress and communication
 - Presented the project at IEEE AIxXR Conference on behalf of the team
 
 <img src="images/VR-outcome.png?raw=true"/>
