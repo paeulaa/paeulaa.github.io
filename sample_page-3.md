@@ -16,7 +16,25 @@ To find out, we ran a **usability study**. Our goal wasn’t to jump straight in
 
 We used a three-layered process:  
 
-### 1. Heuristic Evaluation  
+### 1. Competitive Analysis  
+
+To see where UNIQLO stands, we compared it against both **direct competitors** (H&M, GAP, American Eagle) and **indirect competitors** (Lululemon, Sephora, Farfetch).  
+
+We built a rubric focusing on:  
+- **Checkout Process** – Is it fast and transparent?  
+- **Discoverability** – How easy is it to find products and features?  
+- **Sizing Features** – Are size guides and fit tools accurate?  
+- **Unique Experience** – What makes the app engaging or distinctive?  
+
+This helped us spot which pain points are common across fashion apps, and which are unique to UNIQLO.  
+
+<img src="images/rubric.png?raw=true"/>
+<img src="images/branding.png?raw=true"/>
+
+
+---
+
+### 2. Heuristic Evaluation  
 
 We started with **Nielsen’s 10 Usability Heuristics** and reviewed key features of the UNIQLO app. Every issue was assigned a **Severity Rating (0–4):**  
 
@@ -39,23 +57,6 @@ From this review, a few recurring usability issues became clear:
 - In addition, the app provided limited error messaging. For example, when a discount code failed, users were given vague responses that didn’t explain what went wrong or how to resolve it.
 - Finally, there were moments when the system status was unclear. Without progress indicators during tasks like search or checkout, users were left wondering if the app was still processing their request.
 
-
----
-
-### 2. Competitive Analysis  
-
-To see where UNIQLO stands, we compared it against both **direct competitors** (H&M, GAP, American Eagle) and **indirect competitors** (Lululemon, Sephora, Farfetch).  
-
-We built a rubric focusing on:  
-- **Checkout Process** – Is it fast and transparent?  
-- **Discoverability** – How easy is it to find products and features?  
-- **Sizing Features** – Are size guides and fit tools accurate?  
-- **Unique Experience** – What makes the app engaging or distinctive?  
-
-This helped us spot which pain points are common across fashion apps, and which are unique to UNIQLO.  
-
-<img src="images/rubric.png?raw=true"/>
-<img src="images/branding.png?raw=true"/>
 
 ---
 
