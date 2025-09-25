@@ -9,6 +9,9 @@ When we open the official UNIQLO app, we expect a digital experience that feels 
 To find out, we ran a **usability study**. Our goal wasn’t to jump straight into redesign solutions. Instead, we focused on **defining and evaluating problems**, which helps us understand exactly where users get stuck and how severe those issues are.  
 
 
+<img src="images/team-usability.png?raw=true"/>
+
+
 ## Our Research Approach  
 
 We used a three-layered process:  
