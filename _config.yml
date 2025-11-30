@@ -3,7 +3,7 @@ logo: "/pdf/web_logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Experience Designer | UT Austin MSIS-HCI Alum | Design & Data Storyteller
   <br><br>
-  Tech Stack: Figma, JavaScript, React.js, Node.js, MongoDB, Vercel
+  Tech Stack: Figma, JavaScript, React/Vue, Astro, Next.js, MongoDB, Vercel
   <br><br>
   <a href="/Resume-frontend.pdf">View My Resume</a> 
  
